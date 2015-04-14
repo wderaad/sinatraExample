@@ -10,7 +10,7 @@
 
 ```gem install bundler```
 
-```bundle install```
+```bundler install```
 
 ### Start app:
 
